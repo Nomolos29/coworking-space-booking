@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/coworking-space-booking.git/static/js/main.c467cd9d.js",
-    "index.html": "/coworking-space-booking.git/index.html",
-    "main.c467cd9d.js.map": "/coworking-space-booking.git/static/js/main.c467cd9d.js.map"
+    "main.css": "/coworking-space-booking/static/css/main.aa5bf05a.css",
+    "main.js": "/coworking-space-booking/static/js/main.19361549.js",
+    "index.html": "/coworking-space-booking/index.html",
+    "main.aa5bf05a.css.map": "/coworking-space-booking/static/css/main.aa5bf05a.css.map",
+    "main.19361549.js.map": "/coworking-space-booking/static/js/main.19361549.js.map"
   },
   "entrypoints": [
-    "static/js/main.c467cd9d.js"
+    "static/css/main.aa5bf05a.css",
+    "static/js/main.19361549.js"
   ]
 }
